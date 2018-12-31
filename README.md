@@ -1,2 +1,2 @@
-# react-material-io-grid
-lightweight react material.io grid layout components 
+# react-grid-layout
+lightweight react grid layout components
